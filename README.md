@@ -50,3 +50,15 @@ python -m unittest discover -s tests
 - Delete a note by ID.
 - Filter notes by subject.
 - Save notes between runs using `data/notes.json`.
+
+## Troubleshooting
+
+- Make sure Python is installed before running CampusNotes.
+- Check Python using python --version.
+- Run commands from the main project directory.
+- Make sure the data folder is available.
+
+## Contribution Guidelines
+
+Contributions to CampusNotes are welcome.
+Test your updates before submitting changes and provide a clear description of improvements.
